@@ -11,7 +11,7 @@
 - **联系方式**:
   - 邮箱: 773025982@qq.com
   - 手机: 13631220216
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/huangshuhai/)
+  - Gitee: [Gitee Pages](https://gitee.com/shuhaihuang)
 - **地址**: 广东省深圳市宝安区
 
 ## 教育背景
