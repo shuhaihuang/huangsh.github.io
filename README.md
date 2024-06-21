@@ -1,6 +1,6 @@
 <!-- 插入背景图片 -->
 <div style="position: relative;">
-  <img src="https://wanx.alicdn.com/wanx/1086410552274749/text_to_image/d3118266d9aa4a71a6cf3be93905f221_0.png?x-oss-process=image/watermark,image_d2FueC93YXRlcm1hcmsvcWlhbndlbl93YXRlcm1hcmsucG5n,t_80,g_se,x_30,y_30/format,webp" alt="简历背景图" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1;" />
+  <img src="https://github.com/shuhaihuang/profile/blob/main/github-sh2.png?x-oss-process=image/watermark,image_d2FueC93YXRlcm1hcmsvcWlhbndlbl93YXRlcm1hcmsucG5n,t_80,g_se,x_30,y_30/format,webp" alt="简历背景图" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1;" />
 </div>
 
 # 个人简历
